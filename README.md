@@ -1,1 +1,2 @@
-# shop-management
+UWP :: Shop Management
+Test Projecet
